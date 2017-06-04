@@ -99,7 +99,7 @@ itunes_affiliate_token: # Optional
 #
 
 # The release of Awesome App Landing Page that you're using
-version: v1.0
+version: v1.1
 
 # Set the Sass partials directory, as we're using @imports
 sass:
